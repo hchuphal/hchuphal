@@ -2,9 +2,17 @@
 
 **Senior Software Engineer** · Systems, Cloud-Native & 5G · Tech Enthusiast
 
-[![Online CV](https://img.shields.io/badge/Online_CV-2563EB?style=flat-square&logo=readthedocs&logoColor=white)](https://hchuphal.github.io/online-cv/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/himanshuchuphal)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/himanshu-chuphal.2f7264df/badges/credly)
+<p>
+  <a href="https://hchuphal.github.io/online-cv/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Online_CV-2563EB?style=flat-square&logo=readthedocs&logoColor=white" alt="Online CV" />
+  </a>
+  <a href="https://www.linkedin.com/in/himanshuchuphal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="https://www.credly.com/users/himanshu_chuphal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+</p>
 
 - ⚙️ **14+ years** building telecom-grade systems (5G/LTE, Packet Core) & cloud-native platforms
 - 🛡️ **Kubernetes & Security** — CKS · CKA · CKAD · KCNA
@@ -23,7 +31,7 @@
 
 ### Certifications
 
-<a href="https://certdirectory.io/profile/himanshu-himanshu?utm_source=github&utm_medium=readme">
+<a href="https://certdirectory.io/profile/himanshu-himanshu?utm_source=github&utm_medium=readme" target="_blank" rel="noopener noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/himanshu-himanshu.svg?style=card&theme=dark">
     <img alt="HIMANSHU CHUPHAL on CertDirectory" src="https://certdirectory.io/badge/himanshu-himanshu.svg?style=card">
